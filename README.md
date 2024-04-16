@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">My name is Oles.<br><br>- 🔭 I’m a university student<br>- 📚 I'm currently learning Kubernetes and DevOps techniques<br>- ⚡ In my free time I play videogames and work on interesting projects</p>
+<p align="left">My name is Oles.<br><br>- 🔭 I’m a university student<br>- 📚 I'm currently learning Kubernetes and DevOps techniques<br>- ⚡ In my free time I play videogames and work on interesting projects<br>- 🏆 <a href="https://slc.tl">Selectel</a> scholarship winner (March - June 2024)</p>
 
 ###
 
