@@ -26,7 +26,7 @@
 ###
 
 # 💫 About Me:
-🔭 I’m currently working on [h3m](https://github.com/hiimluck3r/h3m)<br>🌱 I’m currently learning Kubernetes and various DevOps/SRE techniques<br>📫 You can reach me in my [Telegram Channel](https://t.me/imluck3r) or in [Telegram](https://t.me/hiimluck3r) directly<br>📝 I sometimes write articles on [Habr](https://habr.com/ru/users/hiimluck3r/)<br>⚡ [Yandex](https://yandex.com) SRE Intern<br>🏆 [Selectel](https://slc.tl/) scholarship winner (March - June 2024)
+🔭 I’m currently working on [h3m](https://github.com/hiimluck3r/h3m)<br>🌱 I’m currently learning Kubernetes and various DevOps/SRE techniques<br>📫 You can reach me in my [Telegram Channel](https://t.me/imluck3r) or in [Telegram](https://t.me/hiimluck3r) directly<br>📝 I sometimes write articles on [Habr](https://habr.com/ru/users/hiimluck3r/)<br>⚡ [Yandex](https://yandex.com) SRE<br>🏆 [Selectel](https://slc.tl/) scholarship winner (March - June 2024)
 
 
 # 💻 Tech Stack:
